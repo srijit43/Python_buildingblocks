@@ -1,0 +1,2 @@
+This directory contains basic python programming that runs you through the hoops of loops, datatypes, functions, data structures. 
+Practicing these programs on my own to make a clear concept in my head. Let it RIP.
